@@ -60,10 +60,12 @@ h2 {
    border-bottom:  inset 5px white;
    color:white;
 }
+
 .shasin img{
    width: 500px;
 }
 
-.naiyou{
-  margin-bottom: 100px;
+.news {
+margin-top: 100px;
+margin-bottom: 100px;
 }
