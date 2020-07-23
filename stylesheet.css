@@ -2,6 +2,7 @@
   color: white;
 font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", メイリオ, Meiryo, "ＭＳ Ｐゴシック", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-align: center;
+  margin:auto;
 
 
   /* コンテンツの高さが画像の高さより大きい時、動かないように固定 */
